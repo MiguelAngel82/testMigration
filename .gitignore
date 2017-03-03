@@ -1,0 +1,11 @@
+.classpath
+.idea/*
+.project
+grailsw
+grailsw.bat
+target/
+*.iml
+*.tld
+out/*
+*.log
+.slcache/
